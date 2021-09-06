@@ -1,7 +1,7 @@
 {
-  "name": "used_auction_server",
+  "name": "live_collaborate_server",
   "version": "1.0.0",
-  "description": "used_auction",
+  "description": "live_collaborate",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
